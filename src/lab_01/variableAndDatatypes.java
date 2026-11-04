@@ -23,9 +23,6 @@ public class variableAndDatatypes {
 //        int vishu =10, vinnu, vihan=23;  - not valid
 //        vishu=12, vinnu=44, vihan=34;   - not valid
 
-
-//        System.out.println(a);
-//        System.out.print(d);
 //        System.out.printf("value of long %d",b);
 //        System.out.println("%d"*1="%d\n", a, a*1);
     }
